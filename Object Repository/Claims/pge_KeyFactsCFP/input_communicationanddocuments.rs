@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_communicationanddocuments</name>
+   <tag></tag>
+   <elementGuidId>fe800271-edc8-4ba4-b988-5f2de7503981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ctl00_ctl00_MasterPageContent_MainContent_dgphDetails_LossCstm__DI5074a1964284bb1a7e502000e5c021_Input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

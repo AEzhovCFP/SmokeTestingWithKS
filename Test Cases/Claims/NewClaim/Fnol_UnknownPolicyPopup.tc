@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Claim type for unknown policy</description>
+   <name>Fnol_UnknownPolicyPopup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>430fb752-7e00-4f5c-ba6f-26e05e731ca8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8857e2d-8281-4688-be63-10979e7910cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automobile'</defaultValue>
+      <description></description>
+      <id>d8857e2d-8281-4688-be63-10979e7910cd</id>
+      <masked>false</masked>
+      <name>claimType</name>
+   </variable>
+</TestCaseEntity>

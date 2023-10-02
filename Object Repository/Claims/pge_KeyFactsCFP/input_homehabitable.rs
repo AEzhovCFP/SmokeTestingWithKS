@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_homehabitable</name>
+   <tag></tag>
+   <elementGuidId>0ff30629-4515-4b62-8ab7-9da47d8e0091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ctl00_ctl00_MasterPageContent_MainContent_dgphDetails_KeyFactCstm__DI2bd3a15aee04d408acbd35cee9ebb8_Input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

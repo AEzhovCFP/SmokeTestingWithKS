@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Key facts regarding claim</description>
+   <name>Fnol_InsuredVehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6629b55b-818f-4ad7-8b8b-b027a50962af</testCaseGuid>
+   <variable>
+      <defaultValue>'Owned'</defaultValue>
+      <description></description>
+      <id>9364e005-ecc8-42bb-8f5c-09b4771dab35</id>
+      <masked>false</masked>
+      <name>ownership</name>
+   </variable>
+   <variable>
+      <defaultValue>'Personal'</defaultValue>
+      <description></description>
+      <id>24a3d98e-509e-4359-915e-91505ad8b127</id>
+      <masked>false</masked>
+      <name>purposeOfUse</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>0b66f1a6-d2ff-4e61-b49c-e3aaabe60523</id>
+      <masked>false</masked>
+      <name>damage</name>
+   </variable>
+</TestCaseEntity>

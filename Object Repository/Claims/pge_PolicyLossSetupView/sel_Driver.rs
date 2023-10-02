@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sel_Driver</name>
+   <tag></tag>
+   <elementGuidId>c4ee318d-29df-4dd8-8bce-45d508d12a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'ctl00_ctl00_MasterPageContent_MainContent_grdAutoItems_ctl00_ctl04_cboSelectedDrivers']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ctl00_MasterPageContent_MainContent_grdAutoItems_ctl00_ctl04_cboSelectedDrivers</value>
+   </webElementProperties>
+</WebElementEntity>

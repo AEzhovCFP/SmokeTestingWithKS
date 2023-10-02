@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a86bc702-4545-46eb-b27d-c2b4e4edeb3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62b5b4cd-c664-4856-b86e-80ffa4969bb4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Application - New - Referred'</defaultValue>
+      <description></description>
+      <id>62b5b4cd-c664-4856-b86e-80ffa4969bb4</id>
+      <masked>false</masked>
+      <name>PolicyStatus</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PolicyTermSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>365d92ae-c5e4-4899-9494-e7bc74fe6b77</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ee61f56-0887-408e-b6d2-98a7196fa1e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'MONTHLY'</defaultValue>
+      <description></description>
+      <id>6ee61f56-0887-408e-b6d2-98a7196fa1e0</id>
+      <masked>false</masked>
+      <name>billingFrequency</name>
+   </variable>
+</TestCaseEntity>

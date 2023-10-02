@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InsuranceHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>406646b5-b10e-4c09-a730-1bac38843bbc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>175090bd-0fda-47e6-bcec-ba7c7ca1e5d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00b32916-6a97-4f12-8444-1f958916cb1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba4d5a73-56df-48af-b785-002d831532a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfa1efa8-551d-4969-8df6-b28bbe3c089e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>faa34396-191d-45f4-9f11-7a8a643815ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'XYZ Insurance Company'</defaultValue>
+      <description></description>
+      <id>175090bd-0fda-47e6-bcec-ba7c7ca1e5d5</id>
+      <masked>false</masked>
+      <name>carrierName</name>
+   </variable>
+   <variable>
+      <defaultValue>'XYZ 12345'</defaultValue>
+      <description></description>
+      <id>00b32916-6a97-4f12-8444-1f958916cb1b</id>
+      <masked>false</masked>
+      <name>priorPolicyNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'2/9/2022'</defaultValue>
+      <description></description>
+      <id>ba4d5a73-56df-48af-b785-002d831532a6</id>
+      <masked>false</masked>
+      <name>effectiveDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'2/9/2023'</defaultValue>
+      <description></description>
+      <id>dfa1efa8-551d-4969-8df6-b28bbe3c089e</id>
+      <masked>false</masked>
+      <name>expiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insured Request'</defaultValue>
+      <description></description>
+      <id>faa34396-191d-45f4-9f11-7a8a643815ae</id>
+      <masked>false</masked>
+      <name>terminationReason</name>
+   </variable>
+</TestCaseEntity>

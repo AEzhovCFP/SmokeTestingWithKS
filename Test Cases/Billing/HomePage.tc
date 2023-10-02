@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecceebb5-4be7-428f-b7d3-eba654cc8287</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5a25e38-ba02-4a07-be04-53f2e19b27d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CFP 0100000092'</defaultValue>
+      <description>policy number</description>
+      <id>a5a25e38-ba02-4a07-be04-53f2e19b27d1</id>
+      <masked>false</masked>
+      <name>PolicyNumber</name>
+   </variable>
+</TestCaseEntity>

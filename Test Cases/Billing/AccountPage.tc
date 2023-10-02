@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AccountPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e61a16c-4963-4b5c-b7bb-bbacfd5ca90b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b69bda39-e121-4e35-9b7e-3bff9cc40897</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Active'</defaultValue>
+      <description>status of the policy</description>
+      <id>b69bda39-e121-4e35-9b7e-3bff9cc40897</id>
+      <masked>false</masked>
+      <name>policyStatus</name>
+   </variable>
+</TestCaseEntity>

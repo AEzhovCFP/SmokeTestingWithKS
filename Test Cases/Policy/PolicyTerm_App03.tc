@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PolicyTerm_App03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6040f27a-8fda-4ebf-b4fc-0214906f04bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86d7d531-ca8e-4876-88b2-67721ec1cc44</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c32ba60b-4df2-45e1-bb51-43e2ff1aa084</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77594942-f83f-41d8-9a38-8711757d91d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>86d7d531-ca8e-4876-88b2-67721ec1cc44</id>
+      <masked>false</masked>
+      <name>miles</name>
+   </variable>
+   <variable>
+      <defaultValue>'Applegate'</defaultValue>
+      <description></description>
+      <id>c32ba60b-4df2-45e1-bb51-43e2ff1aa084</id>
+      <masked>false</masked>
+      <name>fireStationName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1 Year'</defaultValue>
+      <description></description>
+      <id>77594942-f83f-41d8-9a38-8711757d91d9</id>
+      <masked>false</masked>
+      <name>term</name>
+   </variable>
+</TestCaseEntity>

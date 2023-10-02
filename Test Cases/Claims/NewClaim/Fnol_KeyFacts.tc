@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Key facts regarding claim</description>
+   <name>Fnol_KeyFacts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>689cac8f-4e09-493a-a871-978617f4820c</testCaseGuid>
+   <variable>
+      <defaultValue>'Single Car'</defaultValue>
+      <description></description>
+      <id>3e8c6305-feaf-44fc-8eee-ec2629616a6e</id>
+      <masked>false</masked>
+      <name>accidentType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insured Vehicle'</defaultValue>
+      <description></description>
+      <id>bb9f8ff5-3039-4e70-9e1e-8a5006813e2d</id>
+      <masked>false</masked>
+      <name>whoWhat</name>
+   </variable>
+   <variable>
+      <defaultValue>'Damaged'</defaultValue>
+      <description></description>
+      <id>4fb026c8-4962-46c4-9196-60800c2dd73b</id>
+      <masked>false</masked>
+      <name>whoDidWhat</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insured Vehicle'</defaultValue>
+      <description></description>
+      <id>0c34efd5-ee15-4f3c-9c26-0fa62595dd02</id>
+      <masked>false</masked>
+      <name>toWhom</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>bfed5fbb-b1dd-4ec6-b369-20e3d7334e6e</id>
+      <masked>false</masked>
+      <name>injured</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>2c321e26-fe16-4239-9bad-5de79c10c162</id>
+      <masked>false</masked>
+      <name>pedestrianInvolved</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>68a1884e-889b-4c21-ac1f-82c4295c486c</id>
+      <masked>false</masked>
+      <name>witness</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47364928-9b7f-45a9-9c82-e61518205c1f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bd85b56-022b-4d00-b8d8-7862d4829218</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06a5ca49-bb26-4da9-a1f8-65a99b76b2c9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>048cdfd7-b816-40ce-8968-57de4fe7306c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.gBillingURL</defaultValue>
+      <description>DC Billing URL</description>
+      <id>0bd85b56-022b-4d00-b8d8-7862d4829218</id>
+      <masked>false</masked>
+      <name>URL_Billing</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.gUsername</defaultValue>
+      <description>Login username</description>
+      <id>06a5ca49-bb26-4da9-a1f8-65a99b76b2c9</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.gPassword</defaultValue>
+      <description>Login password</description>
+      <id>048cdfd7-b816-40ce-8968-57de4fe7306c</id>
+      <masked>false</masked>
+      <name>passWord</name>
+   </variable>
+</TestCaseEntity>

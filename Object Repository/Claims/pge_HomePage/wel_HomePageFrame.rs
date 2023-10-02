@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_HomePageFrame</name>
+   <tag></tag>
+   <elementGuidId>fd33126a-873c-40db-b54a-1c6423fda773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@id = 'mainContentIFrame']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>551b3d18-7d56-48d6-a7b0-daeb4fe5ca36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mainContentIFrame</value>
+      <webElementGuid>a8c1ec09-a731-40e8-ac4d-506f507f102d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

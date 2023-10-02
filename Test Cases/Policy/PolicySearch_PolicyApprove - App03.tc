@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for policy</description>
+   <name>PolicySearch_PolicyApprove - App03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>043f9869-4aa3-4a67-bb4a-46a442fdb056</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5066f78-41ad-4c3b-b02f-e117608ce3cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4d4d0f7-245b-486b-832b-f342712c3499</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['View Policy']</defaultValue>
+      <description></description>
+      <id>b5066f78-41ad-4c3b-b02f-e117608ce3cf</id>
+      <masked>false</masked>
+      <name>drpPolicy</name>
+   </variable>
+   <variable>
+      <defaultValue>'CFP 0100000259'</defaultValue>
+      <description></description>
+      <id>e4d4d0f7-245b-486b-832b-f342712c3499</id>
+      <masked>false</masked>
+      <name>PolicyNumber</name>
+   </variable>
+</TestCaseEntity>

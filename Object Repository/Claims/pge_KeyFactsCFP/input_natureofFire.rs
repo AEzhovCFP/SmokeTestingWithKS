@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_natureofFire</name>
+   <tag></tag>
+   <elementGuidId>0d147dc0-d888-4053-a6a3-2547f97a9d36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ctl00_ctl00_MasterPageContent_MainContent_dgphDetails_KeyFactCstm__DI2364e1c2e124bba9b2822ea15b7e12_Input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

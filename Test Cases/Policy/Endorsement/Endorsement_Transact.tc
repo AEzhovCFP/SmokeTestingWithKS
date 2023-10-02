@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Endorsement_Transact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ef2d4d0-fa84-4ab7-8a1b-f95ac562581d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1098a121-c0e4-46db-bca5-f859f95bf0a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67c4de8b-b9a5-49c6-b5f9-bce5de80350c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Endorse'</defaultValue>
+      <description></description>
+      <id>1098a121-c0e4-46db-bca5-f859f95bf0a5</id>
+      <masked>false</masked>
+      <name>TransactionType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Insured Request'</defaultValue>
+      <description></description>
+      <id>67c4de8b-b9a5-49c6-b5f9-bce5de80350c</id>
+      <masked>false</masked>
+      <name>Endorse_Reason</name>
+   </variable>
+</TestCaseEntity>

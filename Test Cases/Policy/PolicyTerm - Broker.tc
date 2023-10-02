@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PolicyTerm - Broker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d683fc03-9d74-45b8-8d6d-2c7745ed57cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a98e294f-3e6d-46f9-85df-64d0645e050b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f82143bd-2133-4b6e-bb42-22dc4bef9f49</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f42ff8f3-0899-48dc-b20f-b4692c8a601e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description>approximate miles from fire station</description>
+      <id>a98e294f-3e6d-46f9-85df-64d0645e050b</id>
+      <masked>false</masked>
+      <name>miles</name>
+   </variable>
+   <variable>
+      <defaultValue>'Applegate'</defaultValue>
+      <description></description>
+      <id>f82143bd-2133-4b6e-bb42-22dc4bef9f49</id>
+      <masked>false</masked>
+      <name>fireStationName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1 Year'</defaultValue>
+      <description>policy term</description>
+      <id>f42ff8f3-0899-48dc-b20f-b4692c8a601e</id>
+      <masked>false</masked>
+      <name>term</name>
+   </variable>
+</TestCaseEntity>

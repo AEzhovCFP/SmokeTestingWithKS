@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewQuote - Old Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ba6c31-1353-4196-8df5-096dc7d6d372</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3278007-5ee1-460c-a461-ba68d7362c62</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>faa04a0a-a43b-4445-8d9b-aa7b110e126c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7daa966b-44c4-49d6-9d7c-43643e89f297</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CFP Dwelling Fire (01/01/2009)'</defaultValue>
+      <description></description>
+      <id>d3278007-5ee1-460c-a461-ba68d7362c62</id>
+      <masked>false</masked>
+      <name>Product</name>
+   </variable>
+   <variable>
+      <defaultValue>'AARON BARNHARDT_V1123'</defaultValue>
+      <description></description>
+      <id>faa04a0a-a43b-4445-8d9b-aa7b110e126c</id>
+      <masked>false</masked>
+      <name>Brokerage</name>
+   </variable>
+   <variable>
+      <defaultValue>'DataConversion_aaron@duckcreek_barnhardtinsure.com'</defaultValue>
+      <description></description>
+      <id>7daa966b-44c4-49d6-9d7c-43643e89f297</id>
+      <masked>false</masked>
+      <name>BrokerName</name>
+   </variable>
+</TestCaseEntity>

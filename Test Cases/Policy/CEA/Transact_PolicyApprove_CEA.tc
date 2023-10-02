@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transact_PolicyApprove_CEA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f1aa75b-b500-48c4-baa4-99d687e5d9d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aeb30e53-75d6-4f10-bca6-ed6cd958e84d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>296bf6c4-7921-4ea3-af7e-aea46c44fda3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a1e1967-ed48-44f3-90a3-8a571d20ce2a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Paper'</defaultValue>
+      <description></description>
+      <id>aeb30e53-75d6-4f10-bca6-ed6cd958e84d</id>
+      <masked>false</masked>
+      <name>CollectionMethod</name>
+   </variable>
+   <variable>
+      <defaultValue>'CEA Paper 11 Pay (Down Payment with Ten Installments)'</defaultValue>
+      <description></description>
+      <id>296bf6c4-7921-4ea3-af7e-aea46c44fda3</id>
+      <masked>false</masked>
+      <name>PaymentPlan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Number of rows:11'</defaultValue>
+      <description></description>
+      <id>4a1e1967-ed48-44f3-90a3-8a571d20ce2a</id>
+      <masked>false</masked>
+      <name>NumberOfInstallments</name>
+   </variable>
+</TestCaseEntity>

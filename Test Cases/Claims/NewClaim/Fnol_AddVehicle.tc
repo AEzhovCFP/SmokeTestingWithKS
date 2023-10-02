@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fnol_AddVehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f522fbbb-b00a-462c-a8b9-d5aac19e1cc4</testCaseGuid>
+   <variable>
+      <defaultValue>'2015'</defaultValue>
+      <description></description>
+      <id>d057aa86-b175-4b14-a968-c5fdd9ffb14b</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+   <variable>
+      <defaultValue>'Acura'</defaultValue>
+      <description></description>
+      <id>53a2316e-b227-43f9-bebf-2cc14bf4d349</id>
+      <masked>false</masked>
+      <name>make</name>
+   </variable>
+   <variable>
+      <defaultValue>'ACI'</defaultValue>
+      <description></description>
+      <id>afbe0f66-0d2e-4f9d-bb40-04bab66e144c</id>
+      <masked>false</masked>
+      <name>model</name>
+   </variable>
+   <variable>
+      <defaultValue>'Car'</defaultValue>
+      <description></description>
+      <id>b4956286-7f6c-4b80-a39c-d58ff343833a</id>
+      <masked>false</masked>
+      <name>vehicleType</name>
+   </variable>
+</TestCaseEntity>

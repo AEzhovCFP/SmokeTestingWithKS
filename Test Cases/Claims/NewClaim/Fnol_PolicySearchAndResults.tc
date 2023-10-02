@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Policy Search &amp; Results</description>
+   <name>Fnol_PolicySearchAndResults</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0bb201e-330d-4d31-a275-ca9f438a7c0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feaac0f8-3c58-48ce-8546-0b8ee11d0cfb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CFP 0100000259'</defaultValue>
+      <description></description>
+      <id>feaac0f8-3c58-48ce-8546-0b8ee11d0cfb</id>
+      <masked>false</masked>
+      <name>PolicySearch</name>
+   </variable>
+</TestCaseEntity>

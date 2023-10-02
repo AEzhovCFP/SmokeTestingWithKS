@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search claim</description>
+   <name>Claim_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff20ff44-48b2-40ef-a14e-b1ccdc71e7b0</testCaseGuid>
+</TestCaseEntity>

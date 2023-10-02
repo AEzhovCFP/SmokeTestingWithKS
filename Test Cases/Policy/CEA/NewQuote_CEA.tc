@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewQuote_CEA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f307a62-cb67-4093-a0ec-679283c4c190</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>232e252c-40bd-4289-b33b-69177cf78160</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a0c4298-7d24-4386-8533-5c695285f621</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'California Earthquake Authority (CEA) (01/01/2009)'</defaultValue>
+      <description></description>
+      <id>232e252c-40bd-4289-b33b-69177cf78160</id>
+      <masked>false</masked>
+      <name>Product1</name>
+   </variable>
+   <variable>
+      <defaultValue>'CFP 0100000155'</defaultValue>
+      <description></description>
+      <id>6a0c4298-7d24-4386-8533-5c695285f621</id>
+      <masked>false</masked>
+      <name>companionPolicy</name>
+   </variable>
+</TestCaseEntity>

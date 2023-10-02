@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Complete FNOL process</description>
+   <name>Fnol_Complete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db0e6296-73f1-4cc7-81d4-6ef5d7fb2851</testCaseGuid>
+</TestCaseEntity>

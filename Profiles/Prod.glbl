@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Prod</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>DC Policy Prod URL</description>
+      <initValue>'https://uep93.duckcreekondemand.com/policy/express.aspx'</initValue>
+      <name>gPolicyURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>username for broker</description>
+      <initValue>'cfpdummybroker105@outlook.com'</initValue>
+      <name>gBrokerUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>password for broker login</description>
+      <initValue>'UATtestingdb123!CFP'</initValue>
+      <name>gBrokerPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>username for internal user login</description>
+      <initValue>'cfpdummybroker102@outlook.com'</initValue>
+      <name>gInternalUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>password for internal user login</description>
+      <initValue>'UATtestingdb123!CFP'</initValue>
+      <name>gInternalPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>in seconds</description>
+      <initValue>10</initValue>
+      <name>gTimeOutSeconds</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>in milliseconds</description>
+      <initValue>5000</initValue>
+      <name>gWaitTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>in seconds</description>
+      <initValue>5</initValue>
+      <name>gSleepTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>total policy premium</description>
+      <initValue>''</initValue>
+      <name>gTotalPremium</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>name of the broker</description>
+      <initValue>'DC Broker'</initValue>
+      <name>gBrokerName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Fire Only'</initValue>
+      <name>gCoveredPerils</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>the location type of the dwelling</description>
+      <initValue>'Home'</initValue>
+      <name>gDwellingType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>the construction type used</description>
+      <initValue>'Frame'</initValue>
+      <name>gConstruction</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1930'</initValue>
+      <name>gYearBuilt</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The number of families</description>
+      <initValue>'2'</initValue>
+      <name>gFamilies</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>short term rental</description>
+      <initValue>'No'</initValue>
+      <name>gRental</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Owner'</initValue>
+      <name>gOccupancy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The number stories for the dwelling</description>
+      <initValue>'2'</initValue>
+      <name>gStory</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'578870'</initValue>
+      <name>gDwellingLimit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7500'</initValue>
+      <name>gDeductible</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>personal property limit</description>
+      <initValue>'75000'</initValue>
+      <name>gPersonalProperty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'85600'</initValue>
+      <name>gFairRental</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'46310'</initValue>
+      <name>gOrdinanceOrLaw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>the total coverage calculated</description>
+      <initValue>'785,780'</initValue>
+      <name>gTotalCoverage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>type of additional interest</description>
+      <initValue>'Individual'</initValue>
+      <name>gInterestType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>the type of interest chosen</description>
+      <initValue>'Policy Designee'</initValue>
+      <name>gInterest</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Steve'</initValue>
+      <name>gInterestFName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'William'</initValue>
+      <name>gInterestLName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'525 Roland Lane'</initValue>
+      <name>gInterestAddress1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Applegate'</initValue>
+      <name>gInterestCity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'95703'</initValue>
+      <name>gInterestZip</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9988778665'</initValue>
+      <name>gInterestPhone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Verified'</initValue>
+      <name>gInterestGeocodeStatus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1 Year'</initValue>
+      <name>gPolicyTerm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gPolicyNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'View Policy'</initValue>
+      <name>gPolicyOption</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Forms to be Added'</initValue>
+      <name>gForms</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Tom'</initValue>
+      <name>gName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cafairplan.sharepoint.com/:i:/r/sites/replatform/Shared%20Documents/Vendors/PwC/Test%20Automation/Katalon_Automation/image1.jpg?csf=1&amp;web=1&amp;e=70N4ix'</initValue>
+      <name>gFileUploadURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://uep93.duckcreekondemand.com/billing/express.aspx'</initValue>
+      <name>gBillingURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Paper'</initValue>
+      <name>gCollectionMethod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'11 Pay'</initValue>
+      <name>gPaymentPlan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cafairplan.sharepoint.com/sites/replatform/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Freplatform%2FShared%20Documents%2FVendors%2FPwC%2FTest%20Automation%2FKatalon%5FAutomation%2FTest%20Data&amp;viewid=6dab6dea%2Dce8b%2D4dfa%2Db91b%2D0066939a601b'</initValue>
+      <name>gSharepointURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gTerm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cn10062665cp.duckcreekondemand.com/afs.claims/Desktop/HomePage/Homepage.aspx'</initValue>
+      <name>URL_Claim</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gFname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gLname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gFullName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gClaimNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>gPTerm</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://action.cfpnet.com/#/broker'</initValue>
+      <name>gPortalURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CFP 0100004727'</initValue>
+      <name>gPolicySearch</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'A &amp; H insurance'</initValue>
+      <name>gBrokerage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cfpdummybroker105@outlook.com'</initValue>
+      <name>gBrokerName1</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

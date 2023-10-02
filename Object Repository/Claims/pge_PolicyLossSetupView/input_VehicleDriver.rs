@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VehicleDriver</name>
+   <tag></tag>
+   <elementGuidId>19bafdb3-002a-4b3d-8016-2b03e03f43b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'ctl00_ctl00_MasterPageContent_MainContent_grdAutoItems_ctl00_ctl04_cboSelectedDrivers_Input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ctl00_MasterPageContent_MainContent_grdAutoItems_ctl00_ctl04_cboSelectedDrivers_Input</value>
+   </webElementProperties>
+</WebElementEntity>
