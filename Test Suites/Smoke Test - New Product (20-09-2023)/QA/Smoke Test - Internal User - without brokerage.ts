@@ -19,25 +19,16 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9edf4c84-521b-47c3-ac07-5b4cfc119f14</guid>
+      <guid>976a26de-7721-4192-b756-b581476e5422</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Policy/NewQuote</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>42333c58-5969-4ceb-97c9-0982ee30a86c</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/TestData/SmokeTest</testDataId>
-      </testDataLink>
+      <testCaseId>Test Cases/Policy/NewQuote - NoBroker NewProduct</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>3e94ea1b-be22-4ea9-9844-387c7e5640fe</variableId>
+         <variableId>a684f23a-2311-41e8-8a0a-c4a2800debfa</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
